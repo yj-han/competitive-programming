@@ -1,8 +1,8 @@
 .PHONY: clean
 
-binaries=baekjoon
+binaries=baekjoon ./codeforces/codeforces
 
 all:
-	clean $(bianries)
+	clean $(binaries)
 clean:
 	rm -f $(binaries) *.o
