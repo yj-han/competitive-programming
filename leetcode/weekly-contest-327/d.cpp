@@ -9,8 +9,10 @@ public:
     int findCrossingTime(int n, int k, vector<vector<int>>& time) {
         priority_queue<pair<int, int>> left, right;
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> up, down;
+
         for (int i = 0; i < time.size(); i++) 
             left.push({time[i][0] + time[i][2], i});
+            
         int t = 0;
 
         while (n > 0) {
