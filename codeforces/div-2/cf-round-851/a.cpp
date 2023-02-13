@@ -1,4 +1,4 @@
-// A - One and Two
+// A. One and Two
 #include <iostream>
 #include <vector>
 #include <algorithm>

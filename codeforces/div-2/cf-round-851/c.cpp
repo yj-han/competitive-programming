@@ -1,4 +1,4 @@
-// C - Matching Numbers
+// C. Matching Numbers
 #include <iostream>
 #include <vector>
 #include <algorithm>

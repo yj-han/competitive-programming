@@ -1,4 +1,4 @@
-// D - Moving Dots
+// D. Moving Dots
 #include <iostream>
 #include <vector>
 #include <algorithm>

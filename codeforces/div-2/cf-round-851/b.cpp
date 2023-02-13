@@ -1,4 +1,4 @@
-// B - Sum of Two Numbers
+// B. Sum of Two Numbers
 #include <iostream>
 #include <vector>
 #include <algorithm>
