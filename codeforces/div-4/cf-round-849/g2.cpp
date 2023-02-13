@@ -1,4 +1,4 @@
-// G2 - Teleporters (Hard Version)
+// G2. Teleporters (Hard Version)
 #include <iostream>
 #include <vector>
 #include <cmath>

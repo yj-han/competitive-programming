@@ -1,4 +1,4 @@
-// F - Range Update Point Query
+// F. Range Update Point Query
 #include <iostream>
 #include <vector>
 #include <cmath>

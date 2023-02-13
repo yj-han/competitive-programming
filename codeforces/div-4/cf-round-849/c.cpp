@@ -1,4 +1,4 @@
-// C - Prepend and Append
+// C. Prepend and Append
 #include <iostream>
 #include <vector>
 #include <cmath>

@@ -1,4 +1,4 @@
-// A - Codeforces Checking
+// A. Codeforces Checking
 #include <iostream>
 #include <vector>
 #include <cmath>

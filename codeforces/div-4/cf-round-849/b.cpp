@@ -1,4 +1,4 @@
-// B - Following Directions
+// B. Following Directions
 #include <iostream>
 #include <vector>
 #include <cmath>

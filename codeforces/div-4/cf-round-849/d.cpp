@@ -1,4 +1,4 @@
-// D - Distinct Split
+// D. Distinct Split
 #include <iostream>
 #include <vector>
 #include <cmath>

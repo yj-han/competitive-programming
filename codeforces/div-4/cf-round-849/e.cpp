@@ -1,4 +1,4 @@
-// E - Negatives and Positives
+// E. Negatives and Positives
 #include <iostream>
 #include <vector>
 #include <cmath>

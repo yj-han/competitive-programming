@@ -1,4 +1,4 @@
-// G1 - Teleporters (Easy Version)
+// G1. Teleporters (Easy Version)
 #include <iostream>
 #include <vector>
 #include <cmath>
