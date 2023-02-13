@@ -1,0 +1,26 @@
+// A. Hall of Fame
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int t; cin >> t;
+    while (t--) {
+        int n;
+        string s;
+        cin >> n >> s;
+
+        int ans = -1;
+        for (int i = 0; i < n-1; i++) {
+            if (s[i] != s[i+1]) {
+                if (s[i] == 'R') ans = 0;
+                else ans = i + 1;
+                break;
+            }
+        }
+
+        cout << ans << '\n';
+    }
+
+    return 0;
+}
