@@ -1,5 +1,4 @@
 // H. Torus Path
-// H. Torus Path
 #include <iostream>
 #include <vector>
 #include <algorithm>
