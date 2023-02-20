@@ -1,0 +1,1 @@
+// F. Paprika and Permutation
