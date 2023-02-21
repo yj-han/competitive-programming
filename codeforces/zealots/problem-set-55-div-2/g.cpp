@@ -1,0 +1,1 @@
+// G. Palindromes Coloring

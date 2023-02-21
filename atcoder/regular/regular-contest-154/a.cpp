@@ -1,4 +1,4 @@
-// A - Swap Digit
+// A. Swap Digit
 
 #include <iostream>
 #include <cmath>

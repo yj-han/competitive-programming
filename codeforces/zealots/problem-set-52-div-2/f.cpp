@@ -28,7 +28,6 @@ void solve() {
                 y = i.first;
             }
         } else ppl--;
-
     }
 
     cout << y << ' ' << k << '\n';

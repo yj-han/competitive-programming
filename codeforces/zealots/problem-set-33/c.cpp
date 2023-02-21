@@ -1,4 +1,4 @@
-// C - Ticks
+// C. Ticks
 #include <iostream>
 #include <vector>
 #include <algorithm>

@@ -15,7 +15,7 @@ void solve() {
         for (int j = 0; j < k; j++) {
             int x; cin >> x;
             c[i].push_back(x);
-            cnt[x]++;        
+            cnt[x]++;
         }
     }
 

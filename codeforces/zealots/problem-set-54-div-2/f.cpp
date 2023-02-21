@@ -1,0 +1,1 @@
+// F. Blue-Red Permutation

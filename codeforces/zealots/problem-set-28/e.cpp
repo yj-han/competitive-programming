@@ -1,4 +1,4 @@
-// E - Multiples and Power Differences
+// E. Multiples and Power Differences
 #include <iostream>
  
 using namespace std;
